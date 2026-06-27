@@ -1,0 +1,65 @@
+# Core ML
+numpy
+pandas
+scikit-learn
+scipy
+
+# NLP
+transformers
+datasets
+tokenizers
+sentencepiece
+accelerate
+
+# PyTorch
+torch
+torchvision
+torchaudio
+
+# Speech AI
+librosa
+soundfile
+SpeechRecognition
+openai-whisper
+
+# Audio Processing
+pydub
+#webrtcvad
+
+# Data Validation
+pydantic
+
+# Environment Variables
+python-dotenv
+
+# Progress Bars
+tqdm
+
+# Serialization
+joblib
+
+# Visualization
+matplotlib
+plotly
+
+# Evaluation Metrics
+seqeval
+evaluate
+
+# Utility
+regex
+requests
+
+# Logging
+loguru
+
+# Configuration
+PyYAML
+
+# Notebook (Optional)
+jupyter
+ipykernel
+
+# Testing
+pytest
+
